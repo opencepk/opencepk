@@ -1,23 +1,23 @@
 [
     {
         "search": "{{BUSINESS_UNIT}}",
-        "replacement": "examplebu"
+        "replacement": "opencepk"
     },
     {
         "search": "{{PROJECT_NAME}}",
-        "replacement": "exampleproject"
+        "replacement": "opencepk"
     },
     {
         "search": "{{GITHUB_REPO_URL}}",
-        "replacement": "https://github.com/examplebu/exampleproject"
+        "replacement": "https://github.com/opencepk/opencepk"
     },
     {
         "search": "{{PROJECT_DESCRIPTION_SLUG}}",
-        "replacement": "Example project used to demonstrate all aspects of a project development and deployment"
+        "replacement": "opencepk forked from opencepk-template-meta"
     },
     {
         "search": "opencepk/opencepk-tto-platform-devops",
-        "replacement": "opencepk/example-github-team-name"
+        "replacement": "opencepk/opencepk-admins"
     },
     {
         "search": "{{PROJECT_CONTRIBUTORS}}",

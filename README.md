@@ -1,10 +1,10 @@
 ![logo](assets/project-logo.png)
 
-# {{BUSINESS_UNIT}}-{{PROJECT_NAME}}
+# opencepk-opencepk
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit) ![pre-commit-badge]({{GITHUB_REPO_URL}}/actions/workflows/pre-commit.yml/badge.svg)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit) ![pre-commit-badge](https://github.com/opencepk/opencepk/actions/workflows/pre-commit.yml/badge.svg)
 
-{{PROJECT_DESCRIPTION_SLUG}}
+opencepk forked from opencepk-template-meta
 
 
 <!--
@@ -20,7 +20,7 @@ Tools like ttygif can help, but check out Asciinema for a more sophisticated met
 
 <!--TOC-->
 
-- [{{BUSINESS_UNIT}}-{{PROJECT_NAME}}](#business_unit-project_name)
+- [opencepk-opencepk](#opencepk-opencepk)
   - [What's Here](#whats-here)
 - [Getting Started](#getting-started)
   - [Getting Started - Prerequisites](#getting-started---prerequisites)
@@ -132,9 +132,9 @@ include in the README.
 Show your appreciation to those who have contributed to the project.
 -->
 
-{{PROJECT_CONTRIBUTORS}}
+* [Example Person](mailto:eperson@opencepk.com)
 
-See also the list of [contributors]({{GITHUB_REPO_URL}}/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/opencepk/opencepk/graphs/contributors) who participated in this project.
 
 ## Contributing
 
@@ -154,8 +154,8 @@ if it requires external setup, such as starting a Selenium server for testing in
 
 We use [SemVer](http://semver.org/) for versioning this project
 
-* [See releases for this project]({{GITHUB_REPO_URL}}/releases)
-* [See tags for this repo]({{GITHUB_REPO_URL}}/tags)
+* [See releases for this project](https://github.com/opencepk/opencepk/releases)
+* [See tags for this repo](https://github.com/opencepk/opencepk/tags)
 
 ## Support
 
